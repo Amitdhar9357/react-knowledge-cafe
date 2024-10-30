@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1001,
+    "cover": "https://i.ibb.co.com/L6GGgxN/modern-technology-trending-innovation-concept.jpg",
+    "title": "The Echo of Silence",
+    "author": "Harper Vance",
+    "author_img": "https://i.ibb.co.com/7C49jN9/author-img.jpg",
+    "posted_date": "2024-05-12",
+    "reading_time": 7,
+    "hashtags": ["#Mystery", "#Thriller", "#Suspense"]
+  },
+  {
+    "id": 1002,
+    "cover": "https://i.ibb.co.com/L6GGgxN/modern-technology-trending-innovation-concept.jpg",
+    "title": "Beyond the Horizon",
+    "author": "Nathan Cross",
+    "author_img": "https://i.ibb.co.com/7C49jN9/author-img.jpg",
+    "posted_date": "2024-06-03",
+    "reading_time": 10,
+    "hashtags": ["#Adventure", "#Fantasy", "#Epic"]
+  },
+  {
+    "id": 1003,
+    "cover": "https://i.ibb.co.com/L6GGgxN/modern-technology-trending-innovation-concept.jpg",
+    "title": "Whispers in the Wind",
+    "author": "Emily Grace",
+    "author_img": "https://i.ibb.co.com/7C49jN9/author-img.jpg",
+    "posted_date": "2024-07-19",
+    "reading_time": 5,
+    "hashtags": ["#Romance", "#Drama", "#LoveStory"]
+  },
+  {
+    "id": 1004,
+    "cover": "https://i.ibb.co.com/L6GGgxN/modern-technology-trending-innovation-concept.jpg",
+    "title": "Shadows of the Forgotten",
+    "author": "Michael Dean",
+    "author_img": "https://i.ibb.co.com/7C49jN9/author-img.jpg",
+    "posted_date": "2024-08-25",
+    "reading_time": 8,
+    "hashtags": ["#HistoricalFiction", "#Mystery", "#War"]
+  },
+  {
+    "id": 1005,
+    "cover": "https://i.ibb.co.com/L6GGgxN/modern-technology-trending-innovation-concept.jpg",
+    "title": "The Last Stargazer",
+    "author": "Olivia Pierce",
+    "author_img": "https://i.ibb.co.com/7C49jN9/author-img.jpg",
+    "posted_date": "2024-09-10",
+    "reading_time": 12,
+    "hashtags": ["#ScienceFiction", "#Space", "#Exploration"]
+  }
+]
